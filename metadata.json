@@ -1,0 +1,7 @@
+{
+  "name": "MagicSnap Editor",
+  "description": "An advanced image editing suite powered by Gemini 2.5 Flash Image, allowing users to remove backgrounds, swap clothes, add accessories, and perform complex generative edits via natural language.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
